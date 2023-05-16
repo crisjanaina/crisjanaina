@@ -1,5 +1,22 @@
-### Hi there 👋
+#### "Houston, we have a problem"
+#### 🤭 I mean a bug 🐛
+<br />
+<br />
 
+####  My name is...
+
+* **Janaína Matheus**
+
+####  I am...
+
+* **Software QA Engineer**
+<br />
+<br />
+
+
+<img src= "https://github.com/crisjanaina/crisjanaina/assets/29989611/89abf73f-46e5-4b52-9b3e-ded9e59a5495" width="200" height="200">
+
+#### ... to my profile
 <!--
 **crisjanaina/crisjanaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
