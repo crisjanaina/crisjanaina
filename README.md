@@ -1,8 +1,8 @@
-####  **Janaína C. Matheus**
+####  *Janaína C. Matheus**
 
 
-#### "Houston, we have a problem"
-####  I mean a bug 🐛 😅
+#### "Houston, we have a problem,
+####  I mean a bug 🐛 😅"
 <br />
 <br />
 
