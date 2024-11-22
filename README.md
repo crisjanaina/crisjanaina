@@ -1,4 +1,4 @@
-####  *Janaína C. Matheus**
+#  Janaína C. Matheus
 
 
 #### "Houston, we have a problem,
@@ -6,7 +6,7 @@
 <br />
 <br />
 
-####  Eu sou entusiasta da área de **Qualidade de Software**
+####  Eu sou entusiasta da área de **Qualidade de Software** 💖
 
 <br />
 <br />
