@@ -4,9 +4,10 @@
 
 **QA na @Morada.ai** | Construindo qualidade onde tecnologia encontra cuidado humano
 
-> 🌙 *"In the name of the moon, I'll debug you!"* 🌸
+>   🌙 *"In the name of the moon, I'll debug you!"* 🌸
 
-Sou apaixonada por qualidade de software e acredito que testar é cuidar — do produto, do time e de quem usa. Meu trabalho é garantir que o que entregamos faça sentido, funcione bem e dê orgulho de mostrar.
+Sou apaixonada por qualidade de software e acredito que testar é cuidar: do produto, das pessoas e da experiência de quem usa. 
+Meu trabalho é garantir que o que entregamos faça sentido, funcione bem e dê orgulho de mostrar.
 
 <br clear="right"/>
 
@@ -40,13 +41,13 @@ Sou apaixonada por qualidade de software e acredito que testar é cuidar — do 
 
 ---
 
-## 🌙 Por que Sailor Moon?
+##  🐈‍⬛ Por que Sailor Moon? 🌙
+Para mim, engenharia de qualidade tem tudo a ver com os valores que a Sailor defende:
 
-Porque qualidade tem muito a ver com os valores dela:
+* 🔍 **Atenção aos detalhes:** Pequenos sinais que outros ignoram costumam ser os rastros dos bugs mais críticos.
+* ⚡ **Persistência:** Bugs complexos e intermitentes só caem quando você não desiste de encontrar a causa raiz.
+* 🫱🏿‍🫲🏿  **Trabalho em Equipe:** Nenhuma Sailor — e nenhum QA — salva o mundo (ou o deploy de sexta-feira) sozinha.
 
-- **Atenção aos detalhes** — pequenos sinais que outros ignoram costumam ser os mais importantes
-- **Persistência** — bugs difíceis caem quando você não desiste
-- **Time** — nenhuma Sailor (ou QA) salva o mundo sozinha
 
 ---
 
