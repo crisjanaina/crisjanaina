@@ -1,10 +1,10 @@
-# Olá, eu sou a Jana! 🌙
+# Olá, eu sou a Jana! 💫💖
 
 <img align="right" width="200" src="https://github.com/crisjanaina/crisjanaina/assets/29989611/89abf73f-46e5-4b52-9b3e-ded9e59a5495" alt="Sailor Moon" />
 
 **QA na @Morada.ai** | Construindo qualidade onde tecnologia encontra cuidado humano
 
-> *"In the name of the moon, I'll debug you!"* 🌸
+> 🌙 *"In the name of the moon, I'll debug you!"* 🌸
 
 Sou apaixonada por qualidade de software e acredito que testar é cuidar — do produto, do time e de quem usa. Meu trabalho é garantir que o que entregamos faça sentido, funcione bem e dê orgulho de mostrar.
 
